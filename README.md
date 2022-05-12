@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FredPowers
-- 👀 I’m interested in IT, Video games, DIY, astronomy.
+- 👀 I’m interested in IT, Video games, DIY, read about astronomy, greek mythology.
 - 🌱 I’m currently learning computer networks, Linux and Windows system administration, scripting powershell & bash. 
 - 📫 How to reach me : f.puren@hotmail.fr
 
