@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FredPowers
 - 👀 I’m interested in IT, Video games, DIY, read about astronomy, greek mythology.
-- 🌱 I’m currently learning computer networks, Linux and Windows system administration, scripting powershell & bash. 
+- 🌱 I’m currently learning computer networks, Linux and Windows system administration, scripting powershell, bash & python. 
 - 📫 How to reach me :
 
 <!---
