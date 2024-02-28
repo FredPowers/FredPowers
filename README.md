@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FredPowers
-- 👀 I’m interested in IT, Video games, DIY, read about astronomy, greek mythology.
-- 🌱 I’m currently learning computer networks, Linux and Windows system administration, scripting powershell, bash & python. 
-- 📫 How to reach me :
+- 👀 I’m interested in IT, Video games, DIY Projects, read about astronomy, SF.
+- Scripting powershell, bash & python. 
 
 <!---
 FredPowers/FredPowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
